@@ -1,0 +1,25 @@
+{
+  "name": "exerc-cio-consumindo-api-fakestore-com-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAlex-full/Exerc-cio-Consumindo-API-FakeStore-com-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevAlex-full/Exerc-cio-Consumindo-API-FakeStore-com-TypeScript/issues"
+  },
+  "homepage": "https://github.com/DevAlex-full/Exerc-cio-Consumindo-API-FakeStore-com-TypeScript#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
